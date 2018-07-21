@@ -1,5 +1,5 @@
 
-##Motivation for this document
+## Motivation for this document
 
 Having been [inspired](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.pe9gkdz93a0r) by [various posts](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) on the importance of transparency, communication and openness from the leadership side of engineering, I’ve decided to kick things off here with my own edition of a Manager’s README.
 
@@ -8,7 +8,7 @@ First off, welcome! If you’re reading this, you’ve either come across it by 
 This README is an earnest, incomplete (we never stop growing) and concise guide. It sets both my expectations for you and a base-line for your expectations of me. If you like the general thinking behind this document, please create one for yourself. It can go well beyond just the working relationship with your manager and peers and provide a good jumping off point for conversations around self-awareness.
 
 ﻿
-##My role
+## My role
 
 TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to improve our product and our business. More granularly:
 
@@ -18,7 +18,7 @@ TL;DR: I am here to make sure our team is successful, happy, and working on the 
 * I write some code too 😃
 
 
-##1:1s
+## 1:1s
 
 These meetings are designed to give you a dedicated time and place to ask anything and everything.
 
@@ -27,7 +27,7 @@ These meetings are designed to give you a dedicated time and place to ask anythi
 * Urgent matters should not wait for a 1:1.
 ﻿﻿
 
-##Personality
+## Personality
 
 * I have strong opinions, weakly held.  I love to debate, understand and see an issue from all sides.  Question everything I say, we’ll all be better for it.
 * I care about my words and endeavor to choose them carefully.  I take this too far sometimes, overthinking my words or being overly pedantic.  
@@ -35,7 +35,7 @@ These meetings are designed to give you a dedicated time and place to ask anythi
 * According to random personality tests I've taken at random company team building events, I am classified as an [INTP personality](https://www.16personalities.com/intp-personality). While I find bucketing someone into a single identifier is much like a star sign defining you as an individual, I certainly see traits that match my personality. Feel free to read up on that personality type if you want to get some insight into some broad categorization of who I may or may not be.
 ﻿
 
-##Feedback
+## Feedback
 
 * Three dimensions are required for people to continue to give you feedback:
     * Safety (unlikelihood of being punished for giving feedback; should be high)
@@ -46,7 +46,7 @@ These meetings are designed to give you a dedicated time and place to ask anythi
 * [Radical Candor](https://www.radicalcandor.com/the-book/) makes a lot of sense. I want to provide feedback in which it is plainly obvious that I both care about you and believe it will help you grow.
 ﻿
 
-##Career Development
+## Career Development
 
 * Your career is yours.
 * I will coach, I will offer feedback.
@@ -55,7 +55,7 @@ These meetings are designed to give you a dedicated time and place to ask anythi
 * But at the end of the day, it’s your career. You set your goals. You set your priorities. You determine whether you make the time to get there.
 
 
-##Where to focus on your first 90 days?
+## Where to focus on your first 90 days?
 
 * Your first week should be spent settling in. Key things to focus on are:
     * Standard on-boarding items like orientation follow-ups; e.g. benefits and compliance items, if applicable.
