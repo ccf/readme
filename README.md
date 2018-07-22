@@ -7,7 +7,7 @@ First off, welcome! If you’re reading this, you’ve either come across it by 
 
 This README is an earnest, incomplete (we never stop growing) and concise guide. It sets both my expectations for you and a base-line for your expectations of me. If you like the general thinking behind this document, please create one for yourself. It can go well beyond just the working relationship with your manager and peers and provide a good jumping off point for conversations around self-awareness.
 
-﻿
+
 ## My role
 
 TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to improve our product and our business. More granularly:
